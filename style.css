@@ -41,7 +41,7 @@ p {
   margin: 40px 0px;
 }
 
-button.normal {
+/* button.normal {
   font-size: 14px;
   font-weight: 600;
   padding: 15px 30px;
@@ -52,7 +52,7 @@ button.normal {
   border: none;
   outline: none;
   transition: 0.2s;
-}
+} */
 img {
   border-radius: 50%;
 }
